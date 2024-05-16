@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 &emsp;&emsp;I received my master degree and bachelor degree in Nanjing University, China, majoring in Electronic and Communication Engineer. After I graduated with my master degree, I joined AI Lab, Tencent, working on the development, deploymeng and acceleration of AI Generation Content (AIGC) service.
 
-&emsp;&emsp;I am now a PhD student at Tsukada Lab, University of Tokyo, focusing on Autonomous Driving and V2X Communication. 
+&emsp;&emsp;I am now a PhD student at Tsukada Lab, University of Tokyo, focusing on Autonomous Driving and V2X Communication. Recently, I am interesting in V2X assisted End-to-End autonomous driving.
